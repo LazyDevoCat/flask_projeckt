@@ -1,7 +1,7 @@
 
-# Simple Traning Flask project
+# Simple Training Flask project
 
-This is simple Flask project for learning how work and creates a simple web applications on Python.
+This is simple Flask project for learning propose: how work and creates a simple web applications on Python.
 
 
 
