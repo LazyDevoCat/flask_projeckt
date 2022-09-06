@@ -8,7 +8,7 @@ This is simple Flask project for learning how work and creates a simple web appl
 
 ## Authors
 
-- [@LazyDevoCat](https://www.github.com/octokatherine)
+- [@LazyDevoCat](https://www.github.com/LazyDevoCat)
 
 
 ## Tech Stack
