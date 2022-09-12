@@ -1,10 +1,7 @@
 {% extends 'base.html' %}
-
 {% block head %}
-
+<title> Task Master</title>
 {% endblock %}
-
-
 
 {% block body %}
 <div class="content">
@@ -24,18 +21,17 @@
                 <th>
                     <a href="/delete/{{task.id}}"> Delete</a>
                     <br>
-                    <a href=""> Update</a>
+                    <a href="/update/{{task.id}}"> Update</a>
                 </th>
             </tr>
         {% endfor %}
     </table>
-
-    <form action="/" method="POST">
-        <input type="text" name="content", id="content">
-        <input type="submit", value="Add Task">
-
-    </form>
-
+    <div class="center">
+        <form action="/" method="POST">
+            <input type="text" name="content", id="content">
+            <input type="submit", value="Add Task">
+        </form>
+    </div>
 
 </div>
 
