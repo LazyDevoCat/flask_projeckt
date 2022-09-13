@@ -15,8 +15,10 @@ This is simple Flask project for learning propose: how work and creates a simple
 
 **Client:** Simple(html + css)
 
-**Server:** Python, Flask
+**Server:** Python, Flask, SQLLite
 
+## Special
+created from [freeCodeCamp](https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=2118s) video
 
 ## License
 
